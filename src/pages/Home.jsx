@@ -208,7 +208,7 @@ export default function Home() {
       
       {/* BACKGROUND */}
       <div className="absolute inset-0 z-0">
-        <img src="/bg.jpg" alt="Background" className="w-full h-full object-cover opacity-50 fixed lg:absolute" />
+        <img src="/bg.webp" alt="Background" className="w-full h-full object-cover opacity-50 fixed lg:absolute" />
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-slate-900/80 fixed lg:absolute"></div>
       </div>
 
